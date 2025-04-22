@@ -50,6 +50,7 @@ This project demonstrates a full-stack authentication system with the following 
 │   └── src/              # Backend source code
 │       ├── controllers/  # Route controllers
 │       ├── middleware/   # Express middleware
+│       ├── models/       # Types for requst and payload
 │       └── routes/       # API routes
 ├── README.md             # Project documentation
 └── package.json          # Project dependencies and scripts
